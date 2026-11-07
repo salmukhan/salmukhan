@@ -1,3 +1,5 @@
+![Sultan Almukhan - Senior iOS Engineer](./banner.png)
+
 # Sultan Almukhan
 
 **Senior iOS Engineer | AI-Assisted Development | Full-Stack Engineering**
